@@ -13,7 +13,7 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'f38bf61dfc7a8d9408629bf6c6232525',
   //接收公众号推送的微信
-  user:[ovBRR6awhxH8ZT8dJEpagYENUGh8],
+  //user:[ovBRR6awhxH8ZT8dJEpagYENUGh8],
 
   PROVINCE: '山西',
   CITY: '阳泉',
